@@ -4,11 +4,15 @@
 
 ![image](https://github.com/user-attachments/assets/c179ea1f-7247-44c8-a4ab-19f31ec2904d)
 
+Student's View
+
 ![image](https://github.com/user-attachments/assets/96185a26-e5f2-48b8-a974-7ec519610317)
 
 ![image](https://github.com/user-attachments/assets/8416aea9-69ac-4df3-ace0-afeedf8ee60c)
 
 ![image](https://github.com/user-attachments/assets/7c0703ed-0565-4914-8576-d2efe8fe63ad)
+
+Teacher's View
 
 ![image](https://github.com/user-attachments/assets/28f7df3a-f22c-4b80-b7bd-7974a604d7e7)
 
